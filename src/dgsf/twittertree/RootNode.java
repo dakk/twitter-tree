@@ -39,7 +39,7 @@ public class RootNode extends AbstractNode
 		super("","",null);  /* richiama il costruttore di AbstractNode */
 		
 		/* setta i codici dell'applicazione */
-		twitter.setOAuthConsumer("kKdACxN1YFUnfaZRZtqsKg","VRDNQgveNFzSrI2gCZh6AAwMtp6V7GjmF1xJwQ");
+		twitter.setOAuthConsumer("","");
 		
 		try 
 		{
