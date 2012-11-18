@@ -1,2 +1,0 @@
-nodo root che con getContent() restituisce il  link di autenticazione
-con getChild(String) passi il codice
