@@ -93,7 +93,6 @@ public class TwitterTreeInsertPath extends JFrame implements ActionListener
 	public void actionPerformed(ActionEvent event ) 
 	{
 		Node pathNode = TwitterTreeFactory.getTree("/."+this.inputBox.getText());
-		/* modifica del contenuto per la stampa */
 		String content[];
 		
 		if(pathNode != null)
